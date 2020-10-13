@@ -13,7 +13,7 @@ git clone https://github.com/aditsanputra/SimpleBlogNodeJs
 ```sh
 npm install
 ```
-4. Enter your API in `config.js`
+4. Run the app
 ```sh
 nodemon app
 ```
